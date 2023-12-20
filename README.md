@@ -13,7 +13,7 @@ https://www.figma.com/file/xtAnJSWrI8khixoMeLzN3R/CISM-Frontend-Test-App-(Copy)?
 ![Untitled](public/readme/image2.PNG)
 
 ## Project setup
----
+```
 npm install
 ```
 
@@ -32,3 +32,5 @@ npm run build
 npm run lint
 ```
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
